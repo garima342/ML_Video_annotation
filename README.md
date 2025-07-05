@@ -1,7 +1,7 @@
 # ML_Video_annotation
 CVAT video annotation project using a Kitchen shelf video dataset with atleast 500 frames, stowing ML pipelines – with strategic labeling, edge case documentation, and process improvement proposals.
 
-![Annotated Sample](samples/example.jpg)
+![Annotated Sample](example.png)
 
 ## Project Overview 
 Simulated Kitchen shelf stowing video annotation pipeline using CVAT, focusing on:
